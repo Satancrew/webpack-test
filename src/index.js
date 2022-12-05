@@ -4,4 +4,4 @@ function component(text) {
   return element;
 }
 
-document.body.prepend(component('Проект собран с использованием вебпака));
+document.body.prepend(component('Проект собран с использованием вебпака'));
